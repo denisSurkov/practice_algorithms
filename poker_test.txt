@@ -1,0 +1,50 @@
+Royal Flush-10S JS QS KS AS
+Royal Flush-AD JD 10D QD KD
+Royal Flush-AC KC QC JC 10C
+Royal Flush-QH KH 10H JH AH
+Royal Flush-AS 10S KS JS QS
+Straight Flush-2S 3S 4S 5S 6S
+Straight Flush-AC 2C 3C 5C 4C
+Straight Flush-9D 10D KD QD JD
+Straight Flush-6H 5H 4H 3H 2H
+Straight Flush-5C AC 2C 3C 4C
+Four of a Kind-QC QD QH QS AS
+Four of a Kind-AS 2Q AC AD AH
+Four of a Kind-2C 3C 2D 2H 2S
+Four of a Kind-JD KQ KH KS KD
+Four of a Kind-7D 7H 8D 7C 7S
+Full House-QD QC QS AS AD
+Full House-6D 7D 6S 7S 6C
+Full House-JD JC QC QD QS
+Full House-10H 2H 2D 2C 10H
+Full House-3H 3D 3C 2S 2D
+Flush-2D 3D 4D 5D 10D
+Flush-QC AC KC 2C 3C
+Flush-AS 10S 2S 5S 6S
+Flush-AH QH KH 10H 7H
+Flush-5D 6D KD 7D 8D
+Straight-5S 6D 7S 8C 9C
+Straight-8C 9D 10S JC QC
+Straight-10S JC QC KD AH
+Straight-2H 3C 4H 5C 6S
+Straight-4C 5C 6S 7C 8D
+Three of a Kind-JS 10D 10S 10C 5C
+Three of a Kind-8C 8D 8S QC JC
+Three of a Kind-AS 7C AC AD QH
+Three of a Kind-8H 7C 9H 8C 8S
+Three of a Kind-7C 10C 10S AC 10D
+Two Pairs-7S JC 7C AH JD
+Two Pairs-6S AD AS 9H 9D
+Two Pairs-7C KD KH QH 7S
+Two Pairs-10D 10S KS QD KD
+Two Pairs-9S 7C 9D QH QS
+Pair-JS 10D 10S 3C 5C
+Pair-8C 7D 8S QC JC
+Pair-6S 7C AC AD QH
+Pair-8H 7C 9H 8C JS
+Pair-7C 10C 6S AC 10D
+High Card-5D JD 3S AD 6H
+High Card-9H JD QC 2C 8D
+High Card-10S 5S 2H 9C QH
+High Card-AD 3H 7S 10H KS
+High Card-AD 7D 8S QD 10H
