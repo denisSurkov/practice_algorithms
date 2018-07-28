@@ -159,7 +159,9 @@ def main():
 
 
 if __name__ == '__main__':
-    # main
+    # main()
+
+    # testing card set and correct combination
     with open("poker_test.txt") as fin:
         for line in fin:
             hand = line.strip().split("-")
